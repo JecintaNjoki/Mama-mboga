@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition:all.2sLinear
+}
+.ul{
+    display: flex;
+    list-style: none;
+}
+body{
+background-color: 66a80f;
+background-image: url();
+}
+.box{
+    box-shadow: inset;
+    display: flex;
+    justify-content: space-between;
+}
